@@ -1,0 +1,47 @@
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\bin\Debug\SKIIBR.exe.config
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\bin\Debug\SKIIBR.exe
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\bin\Debug\SKIIBR.pdb
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\obj\Debug\SKIIBR.csprojResolveAssemblyReference.cache
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\obj\Debug\SKIIBR.Form1.resources
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\obj\Debug\SKIIBR.Properties.Resources.resources
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\obj\Debug\SKIIBR.csproj.GenerateResource.Cache
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\obj\Debug\SKIIBR.exe
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\obj\Debug\SKIIBR.pdb
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\janste2\documents\visual studio 2015\Projects\SKIIBR\SKIIBR\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\SKIIBR.exe.config
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\obj\Debug\SKIIBR.exe
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\obj\Debug\SKIIBR.pdb
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\SKIIBR.exe
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\SKIIBR.pdb
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\obj\Debug\SKIIBR.csprojResolveAssemblyReference.cache
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\obj\Debug\SKIIBR.Form1.resources
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\obj\Debug\SKIIBR.Properties.Resources.resources
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\obj\Debug\SKIIBR.csproj.GenerateResource.Cache
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\DynamicInterop.dll
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\RDotNet.dll
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\DynamicInterop.xml
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\RDotNet.xml
+C:\Users\janste2\OneDrive - Knowit AB\SKIIBR\SKIIBR\bin\Debug\RDotNet.NativeLibrary.xml
+C:\IBR Testkodning\IBR 5.0\SKIIBR\bin\Debug\SKIIBR.exe.config
+C:\IBR Testkodning\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.exe
+C:\IBR Testkodning\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.pdb
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\SKIIBR.exe.config
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\SKIIBR.exe
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\SKIIBR.pdb
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\DynamicInterop.xml
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\RDotNet.xml
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.csprojResolveAssemblyReference.cache
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.Form1.resources
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.Properties.Resources.resources
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.csproj.GenerateResource.cache
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.csproj.CoreCompileInputs.cache
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.csproj.CopyComplete
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.exe
+C:\Users\jopa\Svenskt kvalitetsindex\Research and Development - Dokument\SKI\Analytics Development\dotNet\IBR\IBR 5.0\SKIIBR\obj\Debug\SKIIBR.pdb

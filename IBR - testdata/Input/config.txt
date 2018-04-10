@@ -1,0 +1,11 @@
+1	Borlänge Energi	103	0,090909091
+2	E.ON	137	0,090909091
+3	Göteborg Energi	90	0,090909091
+4	Jönköping Energi	93	0,090909091
+5	Karlstads Energi	99	0,090909091
+6	Skellefteå Kraft	99	0,090909091
+7	Umeå Energi	100	0,090909091
+8	Vattenfall	94	0,090909091
+9	Växjö Energi	168	0,090909091
+10	Öresundskraft	100	0,090909091
+11	Övriga	143	0,090909090

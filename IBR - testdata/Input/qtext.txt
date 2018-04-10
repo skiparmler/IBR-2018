@@ -1,0 +1,24 @@
+Q3	Tänk på all erfarenhet du har av Hur nöjd är du?	Tänk på all erfarenhet du har av Hur nöjd är du?
+Q4_1	Är enkel att vara kund hos?	Är enkel att vara kund hos?
+Q4_2	Månar om sina kunder?	Månar om sina kunder?
+Q4_3	Tar samhällsansvar (ansvar för en hållbar ekonomisk, social, miljömässig och etisk utveckling)?	Tar samhällsansvar?
+Q4_4	Är pålitliga?	Är pålitliga?
+Q5_1	Dina förväntningar på produkterna hos din leverantör?	Dina förväntningar på produkterna?
+Q5_2	Dina förväntningar på servicen  hos din leverantör?	Dina förväntningar på servicen?
+Q5_3	Dina förväntningar på tjänsterna  hos din leverantör?	Dina förväntningar på tjänsterna?
+Q6	I vilken mån anser du att  uppfyller dina förväntningar?	I vilken mån anser du att  uppfyller dina förväntningar?
+Q7P_1	Ert nuvarande avtal passar er?	Ert nuvarande avtal passar er?
+Q7P_2	Leveranssäkerheten, att ni får en stabil och säker värmeförsörjning utan avbrott?	Leveranssäkerheten, att ni får en stabil och säker värmeförsörjning utan avbrott?
+Q7P_3	Fakturan är lätt att förstå?	Fakturan är lätt att förstå?
+Q7P_4	Utbudet av tjänster? (t.ex. energirådgivning, energideklarationer etc.?)	Utbudet av tjänster?
+Q7S_1	Tillgänglighet, dvs att du kan komma i kontakt när du behöver?	Tillgänglighet, dvs att du kan komma i kontakt när du behöver?
+Q7S_2	Att hålla dig informerad?	Att hålla dig informerad?
+Q7S_3	Att ge dig den hjälp du behöver?	Att ge dig den hjälp du behöver?
+Q7S_4	Proaktivitet (att ta initiativ och komma med relevanta erbjudanden)?	Proaktivitet?
+Q8_1	Prisvärd service?	Prisvärd service?
+Q8_2	Prisvärd kvalitet på produkterna och tjänsterna?	Prisvärd kvalitet på produkterna och tjänsterna?
+Q8_3	I relation till hur mycket du betalar, hur konkurrenskraftiga upplever du att  din leverantör är?	I relation till hur mycket du betalar, hur konkurrenskraftiga upplever du att  din leverantör är?
+Q10	Om du skulle välja elhandelsföretag idag, hur troligt är det att du då väljer samma?	Om du skulle välja fjärrvärmeleverantör idag, hur troligt är det att du då väljer samma?
+Q15	På vilket sätt talar du normalt om ?	På vilket sätt talar du normalt om ?
+Q15_1	Hur troligt är det att du skulle rekommendera  till någon annan?	Hur troligt är det att du skulle rekommendera  till någon annan?
+Q16	Tänk dig ett perfekt elhandelsföretag. Hur nära eller långt ifrån ett sådant upplever du att  är?	Tänk dig ett perfekt fjärrvärmeleverantör. Hur nära eller långt ifrån ett sådant upplever du att din leverantör är?
